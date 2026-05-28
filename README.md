@@ -40,17 +40,17 @@ Documentation of how technical problems are explained clearly to non-technical u
 
 ## Skills Demonstrated
 
-, Windows 10 and Windows 11 support  
-, Basic network troubleshooting  
-, User assistance  
-, Ticket documentation  
-, Incident prioritization  
-, Access control support  
-, Printer and peripheral troubleshooting  
-, Technical communication  
-, Escalation process  
-, Root cause analysis  
-, Shift handoff documentation  
+- Windows 10 and Windows 11 support
+- Basic network troubleshooting
+- User assistance
+- Ticket documentation
+- Incident prioritization
+- Access control support
+- Printer and peripheral troubleshooting
+- Technical communication
+- Escalation process
+- Root cause analysis
+- Shift handoff documentation 
 
 ## Documentation Sections
 
